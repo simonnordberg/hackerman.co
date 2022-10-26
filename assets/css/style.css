@@ -24,7 +24,14 @@ header {
   text-align: center;
 }
 
-header img {
+header .logo {
   width: 100%;
-  margin-bottom: -8rem;
+}
+
+header .social-list {
+  list-style-type: none;
+}
+
+.social-list img {
+  max-width: 2rem;
 }
