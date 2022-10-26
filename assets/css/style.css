@@ -24,14 +24,6 @@ header {
   text-align: center;
 }
 
-header .logo {
+img {
   width: 100%;
-}
-
-header .social-list {
-  list-style-type: none;
-}
-
-.social-list img {
-  max-width: 2rem;
 }
